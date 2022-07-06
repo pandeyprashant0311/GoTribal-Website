@@ -1,4 +1,4 @@
-# GoTribal-website
+# Jibaro
 A website built for the tribes of india to help in their betterment as well as helping them promote their art.
 
 Through this website, the tribals can get themselves registered and then put visuals of their work online.
